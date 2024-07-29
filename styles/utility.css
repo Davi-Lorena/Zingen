@@ -1,5 +1,5 @@
 .py-base {
-    padding-block: var(--px-base);
+    padding-block: var(--py-base);
 }
 
 .py-lg {
@@ -32,12 +32,20 @@
     display: flex;
 }
 
+.items-center {
+    align-items: center;
+}
+
 .grid {
     display: grid;
 }
 
 .gap-1 {
     gap: 1rem;
+}
+
+.gap-1\.5 {
+    gap: 1.5rem;
 }
 
 @media (width >= 80em) {
