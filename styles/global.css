@@ -56,11 +56,14 @@ font-size: var(--fs-base);
 line-height: 1.6;
 color: var(--text-color-primary);
 
+overflow: hidden;
+
 scroll-behavior: smooth;
 
 }
 
 body {
+    overflow: hidden;
     background-color: var(--bg-color);
 }
 
@@ -119,6 +122,10 @@ img {
 --py-lg: 2rem;
 --py-xl: 5rem;
 
+    }
+
+    html {
+        overflow: auto;
     }
 }
 
