@@ -9,7 +9,7 @@
 - CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
 
 ## Sobre a construção do projeto :hammer:
-O desenvolvimento desse projeto foi voltado para a aplicação de responsividade e construção de layouts, aplicando propriedades como grid, flex e position. Algumas maneiras diferentes de estilizar também foram aperfeiçoadas, como a utilização de bordas e textos em degradê. Além disso, apliquei transições para deixar o projeto mais animado. 
+O desenvolvimento desse projeto foi voltado para a aplicação de responsividade e construção de layouts, aplicando propriedades como grid, flex e position. Algumas maneiras diferentes de estilizar também foram aperfeiçoadas, como a utilização de bordas e textos em degradê. 
 
 ## Conclusão :high_brightness:
 Concluo esse projeto satisfeito e feliz com o aprendizado e habilidades desenvolvidas em relação à aplicação de responsividade.
